@@ -3,10 +3,10 @@ title: ""
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "ENSEA"
+#date: 2014-01-01
 location: "City, Country"
 ---
 
-I teach different topic in computer programming, machine learning, deep learning, computer vision.
+I teach different topics in computer programming, machine learning, deep learning, image processing, computer vision.
 
