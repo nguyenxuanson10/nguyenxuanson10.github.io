@@ -17,6 +17,15 @@ Email: xuan-son.nguyen@ensea.fr\\  Office: D-312, ENSEA
 * 22 July 2021: One paper accepted to ICCV 2021.
 * 2 March 2019: One paper accepted to CVPR 2019.
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 **PUBLICATIONS**
 
 **Journal papers**
