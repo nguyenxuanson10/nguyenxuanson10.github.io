@@ -12,7 +12,7 @@ I am an associate professor at ENSEA graduate school, France. I received my PhD 
 
 
 **News**
-* 14 September 2022: One paper accepted to NeurIPS 2022 (Oral)
+* 14 September 2022: One paper accepted to NeurIPS 2022 (<span style="color:red">Oral</span>)
 * 9 July 2022: One paper accepted to ECCV 2022.
 * 22 July 2021: One paper accepted to ICCV 2021.
 * 2 March 2019: One paper accepted to CVPR 2019.
