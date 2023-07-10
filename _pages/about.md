@@ -12,6 +12,7 @@ I am an associate professor at ENSEA graduate school, France. I received my PhD 
 
 
 **News**
+* 24 April 2023: One paper accepted to ICML 2023
 * 14 September 2022: One paper accepted to NeurIPS 2022 (<span style="color:red">Oral</span>)
 * 9 July 2022: One paper accepted to ECCV 2022.
 * 22 July 2021: One paper accepted to ICCV 2021.
@@ -39,14 +40,16 @@ I am an associate professor at ENSEA graduate school, France. I received my PhD 
 8. Dubuisson, S. and Gonzales, C. and Nguyen, X.S. "Sub-sample swapping for Sequential Monte Carlo approximation of high-dimensional densities in the context of complex object tracking". International Journal of Approximate Reasoning, Vol. 54 N°. 7, pp. 934-953, 2013.
 
 **Conference papers**
-1. Nguyen, X.S. "GeomNet: A Neural Network Based on Riemannian Geometries of SPD Matrix Space and Cholesky Space for 3D Skeleton-Based Interaction Recognition ". IEEE International Conference on Computer Vision (ICCV), 2021.
-2. Nguyen, X.S. and Brun, L. and Lézoray, O. and Bougleux, S. "A Neural Network Based on SPD Manifold Learning for Skeleton-based Hand Gesture Recognition". IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp 12036-12045, 2019.
-3. Nguyen, X.S. and Brun, L. and Lézoray, O. and Bougleux, S. "Skeleton-based Hand Gesture Recognition by Learning SPD Matrices with Neural Networks". IEEE International Conference on Automatic Face and Gesture Recognition (FG), pp 1-5, 2019.
-4. Nguyen, T.T. and Nguyen, T.P. and Bouchara, F. and Nguyen, X.S. "Directional Beams of Dense Trajectories for Dynamic Texture Recognition". Advanced Concepts for Intelligent Vision Systems, pp 74-86, 2018.
-5. Nguyen, X.S. and Nguyen, T.P. and Charpillet, F. "Effective Surface Normals Based Action Recognition in Depth Images". International Conference on Pattern Recognition (ICPR), pp. 817-822, 2016.
-6. Nguyen, X.S. and Nguyen, T.P. and Charpillet, F. "Improving Surface Normals Based Action Recognition in Depth Images". International Conference on Advanced Video and Signal-Based Surveillance, pp. 109-114, 2016.
-7. Nguyen, X.S. "Swapping-based Annealed Particle Filter with Occlusion Handling for 3D Human Body Tracking". International Conference on Computer Vision Theory and Application(VISAPP), pp. 576-583, 2014.
-8. Nguyen, X.S. and Dubuisson, S. and Gonzales, C. "Hierarchical Annealed Particle Swarm Optimization for Articulated Object Tracking". International Conference on Computer Analysis and Patterns (CAIP), pp. 1-8, 2013.
-9. Dubuisson, S. and Gonzales, C. and Nguyen, X.S. "DBN-Based Combinatorial Resampling for Articulated Object Tracking". Conference on Uncertainty in Artificial Intelligence (UAI), pp. 237-246, 2012.
-10. Gonzales, C. and Dubuisson, S. and Nguyen, X.S. "Simultaneous Partitioned Sampling for articulated object tracking". Proceedings of Advanced Concepts for Intelligent Vision Systems (ACIVS), pp. 150-161, 2011.
-11. Dubuisson, S. and Gonzales, C. and Nguyen, X.S. "Swapping-Based Partitioned Sampling for better complex density estimation: application to articulated object tracking". Proceedings of the 5th International Conference on Scalable Uncertainty Management (SUM), pp. 525-538, 2011.
+1. Nguyen, X.S. "A Gyrovector Space Approach for Symmetric Positive Semi-definite Matrix Learning". European Conference on Computer Vision (ECCV), pp 52-68, 2022.
+2. Nguyen, X.S. "The Gyro-Structure of Some Matrix Manifolds". Conference on Neural Information Processing Systems (NeurIPS), 2022.
+3. Nguyen, X.S. "GeomNet: A Neural Network Based on Riemannian Geometries of SPD Matrix Space and Cholesky Space for 3D Skeleton-Based Interaction Recognition". IEEE International Conference on Computer Vision (ICCV), pp 13359-13369, 2021.
+4. Nguyen, X.S. and Brun, L. and Lézoray, O. and Bougleux, S. "A Neural Network Based on SPD Manifold Learning for Skeleton-based Hand Gesture Recognition". IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp 12036-12045, 2019.
+5. Nguyen, X.S. and Brun, L. and Lézoray, O. and Bougleux, S. "Skeleton-based Hand Gesture Recognition by Learning SPD Matrices with Neural Networks". IEEE International Conference on Automatic Face and Gesture Recognition (FG), pp 1-5, 2019.
+6. Nguyen, T.T. and Nguyen, T.P. and Bouchara, F. and Nguyen, X.S. "Directional Beams of Dense Trajectories for Dynamic Texture Recognition". Advanced Concepts for Intelligent Vision Systems, pp 74-86, 2018.
+7. Nguyen, X.S. and Nguyen, T.P. and Charpillet, F. "Effective Surface Normals Based Action Recognition in Depth Images". International Conference on Pattern Recognition (ICPR), pp. 817-822, 2016.
+8. Nguyen, X.S. and Nguyen, T.P. and Charpillet, F. "Improving Surface Normals Based Action Recognition in Depth Images". International Conference on Advanced Video and Signal-Based Surveillance, pp. 109-114, 2016.
+9. Nguyen, X.S. "Swapping-based Annealed Particle Filter with Occlusion Handling for 3D Human Body Tracking". International Conference on Computer Vision Theory and Application(VISAPP), pp. 576-583, 2014.
+10. Nguyen, X.S. and Dubuisson, S. and Gonzales, C. "Hierarchical Annealed Particle Swarm Optimization for Articulated Object Tracking". International Conference on Computer Analysis and Patterns (CAIP), pp. 1-8, 2013.
+11. Dubuisson, S. and Gonzales, C. and Nguyen, X.S. "DBN-Based Combinatorial Resampling for Articulated Object Tracking". Conference on Uncertainty in Artificial Intelligence (UAI), pp. 237-246, 2012.
+12. Gonzales, C. and Dubuisson, S. and Nguyen, X.S. "Simultaneous Partitioned Sampling for articulated object tracking". Proceedings of Advanced Concepts for Intelligent Vision Systems (ACIVS), pp. 150-161, 2011.
+13. Dubuisson, S. and Gonzales, C. and Nguyen, X.S. "Swapping-Based Partitioned Sampling for better complex density estimation: application to articulated object tracking". Proceedings of the 5th International Conference on Scalable Uncertainty Management (SUM), pp. 525-538, 2011.
