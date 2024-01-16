@@ -12,6 +12,7 @@ I am an associate professor at ENSEA graduate school, France. I received my PhD 
 
 
 **News**
+* 2 September 2023: Invited to serve as Reviewer for ICLR 2024 
 * 12 May 2023: Invited to serve as Reviewer for NeurIPS 2023
 * 24 April 2023: One paper accepted to ICML 2023
 * 14 September 2022: One paper accepted to NeurIPS 2022 (<span style="color:red">Oral</span>)
