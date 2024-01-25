@@ -12,7 +12,7 @@ I am an associate professor at ENSEA graduate school, France. I received my PhD 
 
 
 **News**
-* 15 January 2023: One paper accepted to ICLR 2024
+* 15 January 2024: One paper accepted to ICLR 2024
 * 24 April 2023: One paper accepted to ICML 2023
 * 14 September 2022: One paper accepted to NeurIPS 2022 (<span style="color:red">Oral</span>)
 * 9 July 2022: One paper accepted to ECCV 2022.
