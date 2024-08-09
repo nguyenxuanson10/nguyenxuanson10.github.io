@@ -10,7 +10,7 @@ redirect_from:
 
 I am an associate professor at ENSEA graduate school, France. I received my PhD in computer science at Paris 6, France. I was a postdoctoral researcher at INRIA Nancy - Grand Est, France and at GREYC, France. I was also a member of the CEA LIST Vision and Learning Lab for Scene Analysis, Paris-Saclay, France.
 
-I am conducting research in the field of artificial intelligence. In my work, I use the theory of Lie groups, Riemannian geometry, differential geometry in order to build deep neural networks in non-Euclidean spaces. In general, I am passionate about applied mathematics for artificial intelligence. 
+I am conducting research in the field of artificial intelligence. In my works, I use the theory of Lie groups, Riemannian geometry, differential geometry in order to build deep neural networks in non-Euclidean spaces. In general, I am passionate about applied mathematics for artificial intelligence. 
 
 Outside of research, I enjoy teaching computer programming to my kids and learning foreign languages.   
 
