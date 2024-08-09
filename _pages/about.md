@@ -12,7 +12,7 @@ I am an associate professor at ENSEA graduate school, France. I received my PhD 
 
 I am conducting research in the field of artificial intelligence. In my work, I use the theory of Lie groups, Riemannian geometry, differential geometry in order to build deep neural networks in non-Euclidean spaces. In general, I am passionate about applied mathematics for artificial intelligence. 
 
-I like meeting researchers from all over the world and discussing with them about science. Outside of research, I enjoy teaching computer programming to my kids and learning foreign languages.   
+Outside of research, I enjoy teaching computer programming to my kids and learning foreign languages.   
 
 **News**
 * 15 January 2024: One paper accepted to ICLR 2024
