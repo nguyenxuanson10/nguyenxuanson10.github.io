@@ -15,7 +15,6 @@ I am conducting research in the field of artificial intelligence. In my works, I
 Outside of research, I enjoy teaching computer programming to my kids and learning foreign languages.   
 
 **News**
-* January 2025: One paper accepted to ICLR 2025
 * January 2024: One paper accepted to ICLR 2024
 * April 2023: One paper accepted to ICML 2023
 * September 2022: One paper accepted to NeurIPS 2022 (<span style="color:red">Oral</span>)
